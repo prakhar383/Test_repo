@@ -24,5 +24,10 @@ def main():
     else:
         print("\nInvalid choice. Please select 1 or 2.")
 
+
+a = 10
+b = 7
+#test comment
+
 if __name__ == "__main__":
     main()
