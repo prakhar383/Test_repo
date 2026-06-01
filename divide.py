@@ -6,3 +6,4 @@ def divide(a, b):
 
 
 #adding this line just for git fetch in second branch
+# adding this line as well
