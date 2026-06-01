@@ -9,14 +9,7 @@ def main():
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
     except ValueError:
-        print("Error: Invalid input. Please enter numbers only.")
-        return
-
-    print("\nSelect Operation:")
-    print("1. Add (+)")
-    print("2. Subtract (-)")
-    print("3. Multiply (*)")
-    print("4. Divide (/)")
+        
     
     
     Test_repo/main.py
