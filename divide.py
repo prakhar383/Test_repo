@@ -1,2 +1,2 @@
 def divide(a, b):
-    return a / b  # Modified on third branch
+    return float(a) / b  # Modified on main branch
