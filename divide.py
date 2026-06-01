@@ -1,2 +1,2 @@
 def divide(a, b):
-    "edited to see merge confilict"
+    return float(a) / b  # Modified on main branch
