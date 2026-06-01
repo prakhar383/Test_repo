@@ -23,19 +23,4 @@ def main():
         result = add(num1, num2)
         print(f"\nResult: {num1} + {num2} = {result}")
     elif choice == '2':
-        result = subtract(num1, num2)
-        print(f"\nResult: {num1} - {num2} = {result}")
-    elif choice == '3':
-        result = multiply(num1, num2)
-        print(f"\nResult: {num1} * {num2} = {result}")
-    elif choice == '4':
-        try:
-            result = divide(num1, num2)
-            print(f"\nResult: {num1} / {num2} = {result}")
-        except ValueError as e:
-            print(f"\nError: {e}")
-    else:
-        print("\nInvalid choice. Please select a number from 1 to 4.")
-
-if __name__ == "__main__":
-    main()
+        r
